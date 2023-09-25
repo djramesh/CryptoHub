@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+ import React, { useEffect, useState } from "react";
 import axios from "axios";
 import { server } from "../index";
 import {
@@ -57,7 +57,18 @@ const CoinDetails = () => {
   return (
     <Container maxW={"100%"} bg="background: rgb(0,18,84);
     background: linear-gradient(113deg, rgba(0,18,84,1) 0%, rgba(202,224,255,1) 100%);" >
-        <HStack justifyContent={'center'}><Text color={'white'} mt={3} fontFamily={'Bebas Neue'} fontSize={'x-large'} letterSpacing={'widest'}>Coins</Text></HStack>
+         <HStack justifyContent={"center"} display={'flex'} flexDirection={'column'}>
+        <Text
+          color={"white"}
+          mt={3}
+          fontFamily={"Bebas Neue"}
+          fontSize={"x-large"}
+          letterSpacing={"widest"}
+        >
+          Coins
+        </Text>
+        <Text fontWeight={'thin'} fontSize={'small'} color={'white'}>(Click on the coins to know more)</Text>
+      </HStack>
       {loading ? (
         <Loader />
       ) : (
