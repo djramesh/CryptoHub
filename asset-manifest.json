@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/CryptoHub/static/css/main.4778a516.css",
-    "main.js": "/CryptoHub/static/js/main.07d17cd9.js",
-    "static/js/787.7428ec8d.chunk.js": "/CryptoHub/static/js/787.7428ec8d.chunk.js",
-    "static/media/cryptoVideo.mp4": "/CryptoHub/static/media/cryptoVideo.f2e2cf04da0cde731088.mp4",
-    "static/media/deep.jpeg": "/CryptoHub/static/media/deep.511680f676f0b99a591a.jpeg",
-    "static/media/cryptohub.png": "/CryptoHub/static/media/cryptohub.d804298c93927283108c.png",
-    "index.html": "/CryptoHub/index.html",
-    "main.4778a516.css.map": "/CryptoHub/static/css/main.4778a516.css.map",
-    "main.07d17cd9.js.map": "/CryptoHub/static/js/main.07d17cd9.js.map",
-    "787.7428ec8d.chunk.js.map": "/CryptoHub/static/js/787.7428ec8d.chunk.js.map"
+    "main.css": "/static/css/main.4778a516.css",
+    "main.js": "/static/js/main.a4c10559.js",
+    "static/js/787.7428ec8d.chunk.js": "/static/js/787.7428ec8d.chunk.js",
+    "static/media/cryptoVideo.mp4": "/static/media/cryptoVideo.f2e2cf04da0cde731088.mp4",
+    "static/media/deep.jpeg": "/static/media/deep.511680f676f0b99a591a.jpeg",
+    "static/media/cryptohub.png": "/static/media/cryptohub.d804298c93927283108c.png",
+    "index.html": "/index.html",
+    "main.4778a516.css.map": "/static/css/main.4778a516.css.map",
+    "main.a4c10559.js.map": "/static/js/main.a4c10559.js.map",
+    "787.7428ec8d.chunk.js.map": "/static/js/787.7428ec8d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4778a516.css",
-    "static/js/main.07d17cd9.js"
+    "static/js/main.a4c10559.js"
   ]
 }
