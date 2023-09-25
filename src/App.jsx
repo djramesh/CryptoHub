@@ -17,7 +17,7 @@ function App() {
         <Route exact path='/exchanges' element={<Exchanges/>}/>
         <Route exact path='/coin/:id' element={<CoinDetails/>}/>
       </Routes>
-      {/* <Footer/> */}
+      <Footer/>
     </Router>
   );
 }
