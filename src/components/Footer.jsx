@@ -27,7 +27,8 @@ const Footer = () => {
 
         <VStack>
           <Avatar boxSize={"28"} mt={["4", "0"]} src={deep} />
-          <Text>Our Founder</Text>
+          <Text>Deep Baishya</Text>
+          <a href="https://www.linkedin.com/in/deepbaishya/">LinkedIn</a>
         </VStack>
       </Stack>
     </Box>
